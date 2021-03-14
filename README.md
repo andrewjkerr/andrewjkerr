@@ -6,10 +6,10 @@
 
 #### 📫 How to reach me:
 
-LinkedIn: [@ajoekerr](https://linkedin.com/in/ajoekerr)
-Twitter: [@ajoekerr](https://twitter.com/@ajoekerr)
-Tumblr: [@ajoekerr](https://ajoekerr.tumblr.com)
-Email: me @ GITHUB_USERNAME dot com
+* Email: me @ GITHUB_USERNAME dot com
+* LinkedIn: [@ajoekerr](https://linkedin.com/in/ajoekerr)
+* Twitter: [@ajoekerr](https://twitter.com/@ajoekerr)
+* Tumblr: [@ajoekerr](https://ajoekerr.tumblr.com)
 
 #### 😄 Pronouns:
 
