@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on
 
-[Stripe](https://stripe.com) (We're [hiring](https://stripe.com/jobs)!)
+taking a break :D
 
 #### 📫 How to reach me:
 
